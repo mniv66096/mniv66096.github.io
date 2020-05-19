@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Siyuan Qiu</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://siyuanqiu.com/"/>
+  <updated>2020-04-14T04:37:19.759Z</updated>
+  <id>http://siyuanqiu.com/</id>
+  
+  <author>
+    <name>Siyuan Qiu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Most Advanced</title>
+    <link href="http://siyuanqiu.com//MostAdvanced/"/>
+    <id>http://siyuanqiu.com//MostAdvanced/</id>
+    <published>2019-06-15T04:00:00.000Z</published>
+    <updated>2020-04-14T04:37:19.759Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><div class="video-wrapper"><iframe width="720" height="405" src="https://www.youtube.com/embed/43Hcg211plU?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">In-House Project at Squint Opera</span><br><span class="line">Client: Empire State Building</span><br><span class="line">Techincal Diector: [Elie Zananiri](http://prisonerjohn.com/)</span><br><span class="line">Software Developer: Siyuan Qiu</span><br></pre></td></tr></table></figure><p></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube.com/embed/43Hcg211plU?autoplay=1&amp;rel=0&amp;amp;showi
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pong!</title>
+    <link href="http://siyuanqiu.com//Pong/"/>
+    <id>http://siyuanqiu.com//Pong/</id>
+    <published>2018-06-15T04:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.864Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-wrapper"><iframe width="720" height="405" src="https://www.youtube.com/embed/43Hcg211plU?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube.com/embed/43Hcg211plU?autoplay=1&amp;rel=0&amp;amp;showinfo=0&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Contrapasso</title>
+    <link href="http://siyuanqiu.com//Contrapasso/"/>
+    <id>http://siyuanqiu.com//Contrapasso/</id>
+    <published>2018-03-25T04:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.864Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/yokvrXzfELs?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yokvrXzfELs?autoplay=1&amp;rel=0&amp;amp;showinfo=0&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AR Creator</title>
+    <link href="http://siyuanqiu.com//ARCreator/"/>
+    <id>http://siyuanqiu.com//ARCreator/</id>
+    <published>2018-01-25T05:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.864Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/t9newJQsJgQ?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t9newJQsJgQ?autoplay=1&amp;rel=0&amp;amp;showinfo=0&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vampire Simulation</title>
+    <link href="http://siyuanqiu.com//VampireSimulation/"/>
+    <id>http://siyuanqiu.com//VampireSimulation/</id>
+    <published>2017-12-15T05:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.865Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/n-LKXpWITZk?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/n-LKXpWITZk?autoplay=1&amp;rel=0&amp;amp;showinfo=0&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Oculus Rift" scheme="http://siyuanqiu.com/tags/Oculus-Rift/"/>
+    
+      <category term="Unreal" scheme="http://siyuanqiu.com/tags/Unreal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NYU MakerSpaceVR</title>
+    <link href="http://siyuanqiu.com//NYUMakerSpaceVR/"/>
+    <id>http://siyuanqiu.com//NYUMakerSpaceVR/</id>
+    <published>2017-08-15T04:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.864Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-wrapper"><iframe width="720" height="405" src="https://www.youtube.com/embed/qEBIkU9x3CY?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube.com/embed/qEBIkU9x3CY?autoplay=1&amp;rel=0&amp;amp;showinfo=0&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+      <category term="Google Cardboard" scheme="http://siyuanqiu.com/tags/Google-Cardboard/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tandon Research</title>
+    <link href="http://siyuanqiu.com//TandonResearch/"/>
+    <id>http://siyuanqiu.com//TandonResearch/</id>
+    <published>2017-03-08T05:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.865Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/yrfzPajqjsA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br>Tandon Research is a mobile VR app made for NYU Admission who sends the google cardboard to the newly admitted students and encourage them to use the VR app to know more about NYU Tandon.<p></p><p>We chose one of Tandon’s latest research publication <em>Osteoblast-derived paracrine factors regulate angiogenesis in response to mechanical stimulation</em> and visualized the complex academic paper in the fun VR environment.</p><p>The mobile version of Tandon Research is available on both <a href="https://itunes.apple.com/us/app/tandon-research-lab-vr/id1209218669?ls=1&amp;mt=8" target="_blank" rel="noopener">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=edu.NYU.engineering.tandonc" target="_blank" rel="noopener">Google Play</a>. The Oculus version which has the better visual effect was presented at <a href="https://www.sxsw.com/exhibitions/gaming-expo/" target="_blank" rel="noopener">SXSW Gaming Expo 2017</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yrfzPajqjsA?rel=0&amp;amp;showinfo=0&quot; fram
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+      <category term="Google Cardboard" scheme="http://siyuanqiu.com/tags/Google-Cardboard/"/>
+    
+      <category term="Oculus Rift" scheme="http://siyuanqiu.com/tags/Oculus-Rift/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ModelSketch</title>
+    <link href="http://siyuanqiu.com//ModelSketch/"/>
+    <id>http://siyuanqiu.com//ModelSketch/</id>
+    <published>2015-04-24T04:00:00.000Z</published>
+    <updated>2020-04-07T00:13:46.864Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-wrapper"><iframe width="720" height="405" src="https://www.youtube.com/embed/SriiOhK_Kzo?autoplay=1&rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><p>ModelSketch (<a href="http://itunes.apple.com/us/app/modelsketch/id989620212?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="noopener">Apple AppStore Link</a>) is a casual 3D modeling iOS app which gives people a completely new modeling experience.</p><p>In ModelSketch, everything dealing with modeling can be done just by two fingers, making modeling easier and more interesting compared to the manipulation on ordinary modeling software on the computer.</p><h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><ul><li>Create base model such as cube and sphere.</li><li>Move, rotate and scale models and change their colors.</li><li>Manipulate a group of models together by multi-selection.</li><li>Save the models you create and load them anytime you want.</li></ul><p><img src="/images/AppScreenShot.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube.com/embed/SriiOhK_Kzo?autoplay=1&amp;rel=0&amp;amp;showinfo=0&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Unity" scheme="http://siyuanqiu.com/tags/Unity/"/>
+    
+      <category term="iOS" scheme="http://siyuanqiu.com/tags/iOS/"/>
+    
+  </entry>
+  
+</feed>
